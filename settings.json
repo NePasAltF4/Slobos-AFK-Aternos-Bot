@@ -8,7 +8,7 @@
   "server": {
     "ip": "144.76.72.157",
     "port": 21301,
-    "version": "26.1.2",
+    "version": false,
     "try-creative": false
   },
   "position": {
