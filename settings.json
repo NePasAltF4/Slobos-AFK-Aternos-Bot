@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 70,
+      "repeat-delay": 150,
       "messages": [
         "Presque trop facile",
         "Faut pas AltF4",
